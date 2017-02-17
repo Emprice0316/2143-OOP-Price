@@ -1,9 +1,11 @@
 ```python
 """
+
 Name: Erika Price
 Email: eprice1988@yahoo.com 
 Assignment: Homework 1 - Lists and Dictionaries
 Due: 31 Jan 2017 @ 11:00 a.m.
+
 """
 
 print('Problem: A')
